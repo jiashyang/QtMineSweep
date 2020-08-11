@@ -10,3 +10,5 @@ A MineSweep game written in Qt
 # Blog Address
 http://blog.csdn.net/u012234115/article/details/51858544
 
+github jiashengyang@github.com
+
